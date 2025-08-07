@@ -9,3 +9,6 @@
  
 ### Input Output Guardrail
 *[colab link](https://colab.research.google.com/drive/108Fxv8Tzo0o8QMBydn-v-TjX9PcQbn2B?usp=sharing "cilck here")*
+
+### Trace
+*[colab link](https://colab.research.google.com/drive/1jtkx_MNKsFq0VcBvxX9GdrdLBATeDi4n?usp=sharing "click here")*
