@@ -1,6 +1,5 @@
 # agentic_work
 ***
-
 ### Rishty Wali Agent
 *[colab link](https://colab.research.google.com/drive/1umsXEI5PHLA_cVOl2EKhJw-9cuBAxNmk?usp=sharing "click here")*
 
@@ -12,3 +11,6 @@
 
 ### Trace
 *[colab link](https://colab.research.google.com/drive/1jtkx_MNKsFq0VcBvxX9GdrdLBATeDi4n?usp=sharing "click here")*
+
+### Hooks
+*[colab link](https://colab.research.google.com/drive/1hB0K9DoQVSkcSx-dXXgjFzTivynUIpbh?usp=sharing "click here")*
